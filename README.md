@@ -89,7 +89,7 @@ AWS cost, IAM drift, and security monitoring platform built on **CloudWatch**, *
 <hr />
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyantrics&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarvix&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 </p>
 
 
@@ -97,13 +97,13 @@ AWS cost, IAM drift, and security monitoring platform built on **CloudWatch**, *
 
 <div align="center">
   
-  <a href="https://github.com/kavyantrics">
+  <a href="https://github.com/adarvix">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/kavyantrics">
+<a href="https://linkedin.com/in/adarvix">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://kavyantrics.vercel.app/">
+<a href="https://adarvix.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -112,5 +112,5 @@ AWS cost, IAM drift, and security monitoring platform built on **CloudWatch**, *
 ---
 
 <!--
-kavyantrics/kavyantrics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+adarvix/adarvix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
